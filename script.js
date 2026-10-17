@@ -1,5 +1,5 @@
-const username = "TEN_TAI_KHOAN";
-const repo = "TEN_REPOSITORY";
+const username = "lvinh3515-eng";
+const repo = "Css";
 
 const gallery = document.getElementById("gallery");
 
